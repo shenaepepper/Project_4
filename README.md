@@ -9,7 +9,7 @@ I msgd the group many times and noone got back to me hence why I have uploaded t
 
 I have never had troubles like this where there was no communication with any other group before. I really hope this doesnt effect my grades. 
 
-I also spend hours trying to work out how to make the code work propery and I figured it out tod the group and they just ignored and didnt add it to the original code so that it wokred so I have uploaded the original coed and then a draft I did with the changes to show it does now work. I also dont know how to  upload the data because will was supposed to put the data on a SQL base so not sure where that is I have just been using images and I cant downoad every image to github as there is thousands. 
+I also spend hours trying to work out how to make the code work propery and I figured it out told the group and they just ignored and didnt add it to the original code so that it worked so I have uploaded the original code and then a draft I did with the changes to show it does now work. I also dont know how to  upload the data because will was supposed to put the data on a SQL base so not sure where that is I have just been using images and I cant downoad every image to github as there is thousands. Well sorry should be clear it always wokred the accurency and precision always worked it just didnt have the output we wanted but when I fixed it it did.
 
 I have uploaded what I coud maybe see where isabella and will upload there project from.
 
